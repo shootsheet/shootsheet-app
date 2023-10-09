@@ -36,16 +36,16 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Score Management
+    description                           : Say goodbye to manual target scoring management. Shootsheet allows you to easily keep track of your scores,  and  your member profiles. No more paperwork, no more headaches.
+    fontawesome_icon_name                 : # magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Participation Record
+    description                           : Our Participation Records system is designed for accurate tracking, so you can keep up-to-date with your progress. Whether you’re an individual or running a squad, our system tracks your participation and provides real-time analytics. We understand how important it is to track your progress, and our system makes it easy and hassle-free.
+    fontawesome_icon_name                 : # mobile
 
-  - title                                 : #  Video Support
-    description                           : #  Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Club Championship
+    description                           : Welcome to shootsheet, your go-to destination for target shooting scores. We're all about creating an inclusive community of shooters, regardless of their age, gender, or skill level. Our unique target score system accommodates everyone, ensuring that all shooters have a fair chance at success. We even have a high score category for those who want to test their skills against the best. Join us at shootsheet and take your shooting to the next level!
     fontawesome_icon_name                 : #  play-circle
 
   - title                                 : #  Automatic Icon and Metadata
