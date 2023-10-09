@@ -22,5 +22,5 @@ Since Apple processes the transactions, no credit card, or personally identifiab
 Apple's Privacy Policy can be found [here](https://www.apple.com/legal/privacy/en-ww/)
 
 ## 3.0 Contact us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at (mailto:support@shootsheet.app). 
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [support@shootsheet.app](mailto:support@shootsheet.app). 
 
