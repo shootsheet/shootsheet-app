@@ -13,7 +13,7 @@ presskit_download_link                    : https://shootsheet.app              
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Shootsheet                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : For iPhone, and iPad                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Paperless target scoring pfatform
+app_description                           : Paperless target scoring platform
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Score Management
     description                           : Say goodbye to manual target scoring management. Shootsheet allows you to easily keep track of your scores,  and  your member profiles. No more paperwork, no more headaches.
-    fontawesome_icon_name                 : # magic
+    fontawesome_icon_name                 : magic
     
   - title                                 : Participation Record
     description                           : Our Participation Records system is designed for accurate tracking, so you can keep up-to-date with your progress. Whether you’re an individual or running a squad, our system tracks your participation and provides real-time analytics. We understand how important it is to track your progress, and our system makes it easy and hassle-free.
@@ -46,31 +46,31 @@ features                                  :
 
   - title                                 : Club Championship
     description                           : Shootsheet, your go-to destination for target shooting scores. We're all about creating an inclusive community of shooters, regardless of their age, gender, or skill level. Our unique target score system accommodates everyone, ensuring that all shooters have a fair chance at success. We even have a high score category for those who want to test their skills against the best. Join us at shootsheet and take your shooting to the next level!
-    fontawesome_icon_name                 : #  play-circle
+    fontawesome_icon_name                 :  play-circle
 
-  - title                                 : #  Automatic Icon and Metadata
+  - title                                 :  Automatic Icon and Metadata
     description                           : #  Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : #  sync
+    fontawesome_icon_name                 :  sync
 
-  - title                                 : #  Easy to Tweak
+  - title                                 :  Easy to Tweak
     description                           : #  Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #  adjust
+    fontawesome_icon_name                 :  adjust
   
-  - title                                 : #  Feature List
+  - title                                 :  Feature List
     description                           : #  Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #  star
+    fontawesome_icon_name                 : star
 
-  - title                                 : #  Smart App Banner
+  - title                                 :  Smart App Banner
     description                           : #  Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : #  arrow-alt-circle-down
+    fontawesome_icon_name                 :  arrow-alt-circle-down
 
-  - title                                 : #  Social Links
+  - title                                 :   Social Links
     description                           : #  Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #  link
+    fontawesome_icon_name                 :   link
 
-  - title                                 : #  FontAwesome Support
+  - title                                 :   FontAwesome Support
     description                           : #  Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #  info-circle
+    fontawesome_icon_name                 :   info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
