@@ -18,7 +18,7 @@ All information entered into the app is stored securely on your device, or your 
 
 ## 2.0 Analytics and Purchase Data
 We use Apple as a payment provider for paid subscriptions. 
-Since Apple processes the transactions, no credit card, student, schedule, or personally identifiable information is ever sent to us.
+Since Apple processes the transactions, no credit card, or personally identifiable information is ever sent to us.
 Apple's Privacy Policy can be found [here](https://www.apple.com/legal/privacy/en-ww/)
 
 ## 3.0 Contact us
