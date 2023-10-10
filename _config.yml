@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Score Management
     description                           : Say goodbye to manual target scoring management. Shootsheet allows you to easily keep track of your scores,  and  your member profiles. No more paperwork, no more headaches.
-    fontawesome_icon_name                 : dot-circle-o  # info-circle  # magic
+    fontawesome_icon_name                 : dot-circle  # info-circle  # magic
     
   - title                                 : Participation Record
     description                           : Our Participation Records system is designed for accurate tracking, so you can keep up-to-date with your progress. Whether you’re an individual or running a squad, our system tracks your participation and provides real-time analytics. We understand how important it is to track your progress, and our system makes it easy and hassle-free.
