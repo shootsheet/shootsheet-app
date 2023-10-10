@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Participation Record
     description                           : Our Participation Records system is designed for accurate tracking, so you can keep up-to-date with your progress. Whether you’re an individual or running a squad, our system tracks your participation and provides real-time analytics. We understand how important it is to track your progress, and our system makes it easy and hassle-free.
-    fontawesome_icon_name                 : calendar-check-o # mobile
+    fontawesome_icon_name                 : calendar-check # mobile
 
   - title                                 : Club Championship
     description                           : Shootsheet, your go-to destination for target shooting scores. We're all about creating an inclusive community of shooters, regardless of their age, gender, or skill level. Our unique target score system accommodates everyone, ensuring that all shooters have a fair chance at success. We even have a high score category for those who want to test their skills against the best. Join us at shootsheet and take your shooting to the next level!
