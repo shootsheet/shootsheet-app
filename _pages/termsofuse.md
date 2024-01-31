@@ -5,12 +5,12 @@ include_in_header: false
 ---
 
 **Last updated**  
-January 26 2024
+January 31 2024
 
 # Terms of Use
 
 ## 1.0 ShootSheet
-ShootSheet is enabled via an auto-renewing subscription.
+ShootSheet is enabled via an auto-renewable subscription with access to all features.
 
 ## 2.0 Subscriptions
 The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase.
